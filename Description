@@ -1,0 +1,24 @@
+Product Narrative:
+
+Augmented Reality (AR) as a copilot in the digital fabrication and assembly process. 
+Developed prototypes for the workflows of scanning an image and exporting it to fusion, exporting Fusion360 designs to .USDZ, overlay these designs in 3D reality through ipads, and display step-by-step instructions for people to follow for assembly.
+
+Project Description:
+
+The AR Copilot app is the result of our team's efforts to create an immersive augmented reality experience for enhancing the furniture assembly process and 3D printer guides. 
+Leveraging Apple's ARKit, Reality Composer, and Reality Kit, we have developed a powerful tool that allows users to visualize and interact with assembly instructions in an engaging and intuitive manner. 
+The app includes image, object, and surface anchors, enabling users to explore projects like phone stand assembly, table construction, and using the Formlabs Form 2 3D printer. 
+Our goal is to make learning and assembly fun, interactive, and accessible for all users.
+
+Process:
+
+Our development process involved a pipeline comprising Reality Composer, ARKit, and Xcode. 
+We designed scenes in Reality Composer and exported them to Xcode for app compilation. 
+Object detection, anchoring, and user interface were refined iteratively during development. 
+We experimented with different techniques to address challenges in object placement, and we learned from each iteration. 
+We embraced asynchronous loading to ensure a responsive app experience.
+
+3D Printer VR Guide Demo: https://drive.google.com/file/d/1vTmyfc2P4XAwXSu6YwtxzkP8V-toa5hi/view?usp=sharing
+
+Email:
+sc2677@cornell.edu
